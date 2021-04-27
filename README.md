@@ -22,6 +22,17 @@ To run this model on your own PC , First of all clone the repository on your PC 
 create a Python Virtual Environment and Install all dependencies that are mentioned in the <u>requirement.txt file<u/> <br>
 Now in the virtual environment trace your project directory and Run the Following coommand  > python <u>yourappname.py</u><br>
 HUrrraY ,You all set to go goto browser paste running server and port . 
+   
+### Results :
+![Index page](https://github.com/Nirajsah17/Image_similarity_search/blob/main/Screenshot%20(715).png)
+<br>
+UI for image uploads 
+<br><br>
+![](https://github.com/Nirajsah17/Image_similarity_search/blob/main/Screenshot%20(714).png)
+
+<br><br>
+
+![](https://github.com/Nirajsah17/Image_similarity_search/blob/main/Screenshot%20(716).png)
 
 
 ###### reference :
